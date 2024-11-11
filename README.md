@@ -20,8 +20,8 @@ Copy the matplotlibrc file into the directory identified in step 1.
 Restart your Python environment to apply the changes. All Matplotlib plots will now use the dark theme by default.
 
 # Example 1
-python
-Copy code
+python3
+
 import matplotlib.pyplot as plt
 
 plt.plot([0, 1, 2], [0, 1, 4])
@@ -30,7 +30,10 @@ plt.show()
 
 # Example 2
 
-Try running test_plot.py from this repo
+Run test_plot.py from this repo
+python3 test_plot.py > test_plot.log & 
+
+
 ![Dark Theme Example](test_plot.png)
 
 # Customization
