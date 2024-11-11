@@ -28,6 +28,9 @@ plt.plot([0, 1, 2], [0, 1, 4])
 plt.title('Dark Theme Test Plot')
 plt.show()
 
+![Dark Theme Example](test_image.png)
+
+
 # Example 2
 
 Try running test_plot.py from this repo
