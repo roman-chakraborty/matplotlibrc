@@ -4,7 +4,7 @@ Easily set a dark theme as the global default for your Matplotlib plots with thi
 # Installation
 Locate Your Matplotlib Configuration Directory
 
-# Run the following command in a Python interpreter to find the directory:
+Run the following command in a Python interpreter to find the directory:
 
 python
 import matplotlib
@@ -33,7 +33,7 @@ plt.show()
 Run test_plot.py from this repo
 python3 test_plot.py > test_plot.log & 
 
-
+The output should look something like this:
 ![Dark Theme Example](test_plot.png)
 
 # Customization
