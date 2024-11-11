@@ -28,7 +28,7 @@ plt.plot([0, 1, 2], [0, 1, 4])
 plt.title('Dark Theme Test Plot')
 plt.show()
 
-![Dark Theme Example](test_image.png)
+![Dark Theme Example](test_plot.png)
 
 
 # Example 2
