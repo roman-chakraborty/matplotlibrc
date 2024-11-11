@@ -34,4 +34,4 @@ Try running test_plot.py from this repo
 ![Dark Theme Example](test_plot.png)
 
 # Customization
-You can modify the matplotlibrc file to adjust colors, fonts, and other settings to suit your preferences.
+Change settings to suit preferences
