@@ -1,0 +1,22 @@
+# Set default face and edge colors
+
+axes.facecolor	   : black
+axes.edgecolor	   : white
+figure.facecolor   : black
+figure.edgecolor   : black
+savefig.facecolor  : black
+savefig.edgecolor  : black
+
+# Set default text and label colors to white
+
+text.color    	   : white
+axes.labelcolor	   : white
+xtick.color	   : white
+ytick.color	   : white
+
+# Set grid color
+
+grid.color	: gray
+grid.linestyle	: --
+
+
