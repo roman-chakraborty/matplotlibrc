@@ -1,6 +1,3 @@
-# matplotlibrc
-Default Global settings for matlotlib
-
 # Matplotlib Dark Theme Configuration
 Easily set a dark theme as the global default for your Matplotlib plots with this custom matplotlibrc file.
 
